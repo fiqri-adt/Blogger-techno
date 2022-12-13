@@ -1,0 +1,319 @@
+# Translation of Themes - Fashify in Indonesian
+# This file is distributed under the same license as the Themes - Fashify package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-15 08:15:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Fashify\n"
+
+#. Description of the theme
+msgid "A fashionable WordPress blog theme."
+msgstr "Tema blog WordPress yang modis."
+
+#. Theme Name of the theme
+msgid "Fashify"
+msgstr "Fashify"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Laman Lebar Penuh"
+
+#: template-parts/content-single.php:41
+msgid "Continue Reading"
+msgstr "Lanjut Membaca"
+
+#: template-parts/content-single.php:39
+msgid "Next article"
+msgstr "Artikel selanjutnya"
+
+#: template-parts/content-single.php:38
+msgid "Previous article"
+msgstr "Artikel sebelumnya"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Sunting %s"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:30
+msgid "Pages:"
+msgstr "Laman:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Kami tidak dapat menemukan apa yang Anda maksud. Mungkin pencarian dapat membantu."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata kunci Anda. Silahkan coba lagi dengan kata kunci berbeda."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap mempublikasikan pos pertama Anda? <a href=\"%1$s\">Mulai disini</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/widgets.php:103
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/widgets.php:102
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/widgets.php:100
+msgid "Order"
+msgstr "Susunan"
+
+#: inc/widgets.php:97
+msgid "Random"
+msgstr "Acak"
+
+#: inc/widgets.php:96
+msgid "Comment count"
+msgstr "Penghitung komentar"
+
+#: inc/widgets.php:94
+msgid "Date"
+msgstr "Tanggal"
+
+#: inc/widgets.php:92
+msgid "Order by"
+msgstr "Urutkan dengan"
+
+#: inc/widgets.php:87
+msgid "Number of photos"
+msgstr "Jumlah foto"
+
+#: inc/widgets.php:82 inc/widgets.php:95
+msgid "Title"
+msgstr "Judul"
+
+#: inc/widgets.php:71
+msgid "Recent Posts"
+msgstr "Pos Terbaru"
+
+#: inc/widgets.php:13
+msgid "Displays custom posts."
+msgstr "Tampilkan pos kustom."
+
+#: inc/widgets.php:10
+msgid "Fashify Posts"
+msgstr "Pos Fashify"
+
+#: inc/template-tags.php:239
+msgid "Fashify Theme by %1$s"
+msgstr "Tema Fashify oleh %1$s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:183
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: inc/template-tags.php:179
+msgid "says:"
+msgstr "mengatakan:"
+
+#: inc/template-tags.php:174
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda menunggu moederasi."
+
+#: inc/template-tags.php:160
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/template-tags.php:160
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:102
+msgid "Tagged in"
+msgstr "Tag"
+
+#: inc/template-tags.php:96
+msgid "Posted in"
+msgstr "Dipos di"
+
+#: inc/template-tags.php:38 inc/template-tags.php:75
+msgid " in %1$s"
+msgstr "pada %1$s"
+
+#: inc/template-tags.php:37 inc/template-tags.php:74 inc/template-tags.php:90
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33 inc/template-tags.php:70
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr "Dipos oleh %s"
+
+#: inc/template-tags.php:28 inc/template-tags.php:65
+msgctxt "post date"
+msgid " on %s"
+msgstr "pada %s"
+
+#: inc/customizer.php:191
+msgid "Secondary Color"
+msgstr "Warna Sekunder"
+
+#: inc/customizer.php:180
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: inc/customizer.php:168
+msgid "Enter number post display on Staff section."
+msgstr "Masukkan jumlah pos ditampilkan pada bagian Staff."
+
+#: inc/customizer.php:165
+msgid "Number:"
+msgstr "Jumlah"
+
+#: inc/customizer.php:149
+msgid "Staff Category:"
+msgstr "Kategori Staff:"
+
+#: inc/customizer.php:134
+msgid "Show/Hide the staff pick"
+msgstr "Tampilkan/Sembunyikan pilihan staff"
+
+#: inc/customizer.php:119 template-parts/content-staff.php:14
+msgid "Staff Picks"
+msgstr "Pilihan Staff"
+
+#: inc/customizer.php:76
+msgid "List"
+msgstr "Daftar"
+
+#: inc/customizer.php:75
+msgid "Grid"
+msgstr "Grid"
+
+#: inc/customizer.php:74 inc/customizer.php:105
+msgid "Default"
+msgstr "Bawaan"
+
+#: inc/customizer.php:70
+msgid "Archive/Search Layout:"
+msgstr "Tata Letak Arsip/Pencarian:"
+
+#: inc/customizer.php:56
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/customizer.php:55
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/customizer.php:51
+msgid "Site Layout"
+msgstr "Tata Letak Situs"
+
+#: inc/customizer.php:37
+msgid "Global"
+msgstr "Global"
+
+#: inc/customizer.php:28
+msgid "Theme Options"
+msgstr "Opsi Tema"
+
+#: header.php:70
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Lompat ke konten"
+
+#: functions.php:144
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:136 functions.php:146
+msgid "Add widgets here."
+msgstr "Tambahkan widget disini."
+
+#: functions.php:134
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:113
+msgctxt "libre_franklin font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:62
+msgid "Social Links"
+msgstr "Link MedSos"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Utama"
+
+#: footer.php:42
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:42
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. All Rights Reserved."
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s tanggapan pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan pada &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Satu Tanggapan pada &ldquo;%s&rdquo;"
+
+#: archive.php:68 home.php:99 search.php:66
+msgid "Page"
+msgstr "Laman"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aw! Lamat tidak ditemukan."
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sepertinya tidak ada apa-apa disini. Mungkin mau coba link berikut atau pencarian?"
+
+#. Author URI of the theme
+msgid "https://www.famethemes.com"
+msgstr "https://www.famethemes.com"
+
+#. Author of the theme
+msgid "FameThemes"
+msgstr "FameThemes"
